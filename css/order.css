@@ -1,0 +1,110 @@
+.validation-top {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin: 20px 0 30px;   
+}
+
+input:focus, select:focus{
+    box-shadow: 0 0 5px #fac7d0;
+    border: 2px solid #ddd;
+}
+
+input, select {
+    outline:none;
+    border: 3px solid #ddd;
+
+    border-radius: 2px;
+    font-size: 1rem;
+    margin: 0.25rem;
+    min-width: 125px;
+    padding: 0.5rem;
+    transition: background-color 0.5s ease-out;
+    float: inline-end;  
+}
+
+.validation button{
+    display: inline-block;
+  background-color: #db2626;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 12px 30px;
+  transition: all .5s;
+  }
+
+.validation  {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.3rem;
+    border: 2px solid brown;
+    border-radius: 7px;
+    padding-top: 20px;
+}
+
+form div{
+    margin-top: 2rem;
+    margin-right:2rem;
+}
+
+label{
+    margin-left: 2rem;
+}
+
+.validation button{
+    margin-top:1.5rem;
+    margin-bottom:1rem;
+    margin-left:1rem;
+}
+
+.order-top {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin: 20px 0 30px;
+}
+
+.order  {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.3rem;
+    border: 2px solid brown;
+    border-radius: 7px;
+   
+}
+
+span{
+    display: inline-block;
+}
+
+.head{
+    margin:1rem;
+    margin-right:1rem;
+}
+
+.info{
+    border-bottom:1px solid brown ;
+}
+
+.total{
+    border-bottom:1px solid brown ;
+}
+
+.right{
+    float:right;
+    margin-right: 1rem;
+}
+
+.left{
+    float:left;
+    margin-left: 1rem;
+}
+
+.item{
+    margin:1rem;   
+}
+
+.info-item{
+    margin:1rem;
+}
