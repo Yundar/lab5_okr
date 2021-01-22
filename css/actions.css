@@ -1,0 +1,29 @@
+.actions {
+    padding: 20px;
+    position: relative;
+    font-size: 26px;
+    font-weight: 300;
+    color: #43474D;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.action-content {
+    display: flex;
+    padding: 20px;
+}
+
+.action-description {
+    text-align: center;
+    color:black;
+    border: 5px solid blueviolet;
+    width: 60%;
+    background-color: rgba(76, 76, 192, 0.329);
+    margin: 15px;
+}
+
+.action-img {
+    height: 200px;
+    width: 200px;
+    border: 3px solid blueviolet;
+}
