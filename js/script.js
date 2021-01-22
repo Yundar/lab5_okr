@@ -1,3 +1,8 @@
+import '../css/style.css';
+import '../css/cart.css';
+import '../css/actions.css';
+import '../css/order.css';
+import '../css/product.css';
 import Home from './home.js';
 import Main from './main.js';
 import Cart from './cart.js';
